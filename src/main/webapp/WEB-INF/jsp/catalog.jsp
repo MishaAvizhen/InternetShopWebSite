@@ -51,7 +51,7 @@
 <body>
 <div class="container">
 	<div class="row">
-		<h1>Имя сайта</h1>
+		<h1>MusicShop</h1>
 		<div class="navbar navbar-inverse">
 			<div class="container">
 				<div class="navbar-header">
